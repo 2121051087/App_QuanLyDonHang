@@ -194,5 +194,9 @@
   <ItemGroup>
     <None Include="Resources\compose.png" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="DataSQL\QLDH.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
